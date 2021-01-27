@@ -1,4 +1,4 @@
-# walmart-api-v2-php
+# Walmart Affiliate API PHP sample request
 Sample request against the Walmart Affiliate API using Open SSL library.
 
 https://walmart.io/docs/affiliate/introduction
